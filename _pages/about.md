@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at East China Normal University (ECNU), where he is fortunate to be advised by Prof. Kai Zhang and Delong Chen (HKUST). Prior to ECNU, he completed his B.Eng. degree at Hohai University in 2025, under the supervision of Prof. Fan Liu, and gained industry experience as an Algorithm Intern at Spring Airlines. Yijun hails from Shanghai (上海); outside of research, he is a badminton player and enjoys Souls-like games (such as Naraka: Bladepoint).
+Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), where he is fortunate to be advised by [Prof. Kai Zhang](https://faculty.ecnu.edu.cn/_s16/zk2/main.psp) and [Delong Chen](https://chendelong.world/). Prior to ECNU, he completed his B.Eng. degree at Hohai University in 2025, under the supervision of [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm), and gained industry experience as an Algorithm Intern at Spring Airlines. Yijun hails from Shanghai (上海); outside of research, he is a badminton player and enjoys Souls-like games (such as Naraka: Bladepoint).
 
 # 🔍Research Topics
 - **World Model**
