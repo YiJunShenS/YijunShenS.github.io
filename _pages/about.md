@@ -17,42 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at East China Normal University (ECNU), where he is fortunate to be advised by Prof. Kai Zhang and Delong Chen (HKUST). Prior to ECNU, he completed his B.Eng. degree at Hohai University in 2025, under the supervision of Prof. Fan Liu, and gained industry experience as an Algorithm Intern at Spring Airlines. Yijun hails from Shanghai (上海); outside of research, he is a badminton player and enjoys Souls-like games (such as Naraka: Bladepoint).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+# 🔍Research Topics
+- **World Model**
+- **LLM Planning**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp; "Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions," was accepted to EMNLP 2025 🎉🎉
+- *2025.03*: &nbsp; "The Intelligent Audit Platform," successfully completed its pilot phase and was officially deployed at the finance department of Spring Airlines. 🎉🎉
+- *2024.08*: &nbsp; As team leader, our project "E Mark: Intelligent Marking Platform" won the Second Prize in the National Computer Design Competition and the Third Prize in the National Service Outsourcing Innovation and Entrepreneurship Competition. 🎉🎉
+- *2024.06*: &nbsp; I was awarded the "Ten Outstanding and One Hundred Excellent Students" title (Top 100 university-wide). 🎓🎓
+- *2023.09*: &nbsp; "State index for interpreting the state-dependent behavior of granular soil: A review," was accepted to Archives of Computational Methods in Engineering (IF 9.7)! 🎉🎉
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, M.S. College of Computer Science and Technology, East China Normal University, supervised by Prof. Kai Zhang.
+- *2021.08 - 2025.07*, B.S. at College of Artificial Intelligence and Automation, Hohai University, supervised by Prof. Fan Liu.
+  
+# 📝 Selected Publications 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+\* Equal Contribution
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/CoTalk.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/abs/2505.22627)
+
+ **Yijun Shen**\*, Delong Chen\*, Fan Liu\*, Xingyu Wang, Chuanyi Zhang, Liang Yao, Yuhui Zheng.
+
+ [[**Code**]](https://github.com/YiJunShenS/CoTalk)
+
+  - We propose an efficient image caption annotation method, which is a sequential cross modal input-output annotation framework, CoTalk
+
+
+</div>
+</div>
+
+# 👥 Co-authors
+Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm), [Delong Chen](https://chendelong.world/), [Xingyu Wang](https://multimodality.group/author/%E7%8E%8B%E5%85%B4%E5%AE%87/
+
+# 🏆 Competitions
+- 2025, bronze medal, Kaggle —— CIBMTR - Equity in post-HCT Survival Predictions
+
+- 2024, Second Prize, Final of National Computer Design Competition \| 中国大学生计算机设计大赛全国总决赛二等奖
+
+- 2024, Third Prize, Final of National Service Outsourcing Innovation and Entrepreneurship Competition \| 中国大学生服务外包创新创业大赛总决赛三等奖
+
+- 2023, Second Prize, Final of Global Campus Artificial Intelligence Algorithm Elite Competition \| 全球校园人工智能算法精英大赛全国总决赛二等奖
+
+- 2023, Honorable Winner, The Mathematical Contest in Modeling (MCM) \| 美国大学生数学建模大赛 Meritorious Winner
+
+# 🎖 Honors and Awards
+- 2025, Outstanding Undergraduate Thesis, Hohai University \| 河海大学优秀本科毕业论文
+
+- 2024, "Ten Outstanding and One Hundred Excellent Students" Award, Hohai University  \| 河海大学海韵风华十杰百佳”优秀学生
+
+- 2024, Outstanding Communist Youth League Cadre, Hohai University  \| 河海大学优秀共青团干部
+
+- 2022, 2023, Merit Student, Hohai University  \| 河海大学优秀学生标兵
+  
+- 2023, 2025, Outstanding Student Leader, Hohai University  \| 河海大学优秀学生干部
+
+- 2021-2025, Outstanding Undergraduate Student Scholarship, Hohai University  \| 河海大学优秀学生奖学金
