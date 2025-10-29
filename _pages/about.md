@@ -27,7 +27,7 @@ Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at [
 - *2025.08*: &nbsp; "Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions," was accepted to EMNLP 2025 🎉🎉
 - *2025.03*: &nbsp; "The Intelligent Audit Platform," successfully completed its pilot phase and was officially deployed at the finance department of Spring Airlines. 🎉🎉
 - *2024.08*: &nbsp; As team leader, our project "E Mark: Intelligent Marking Platform" won the Second Prize in the National Computer Design Competition and the Third Prize in the National Service Outsourcing Innovation and Entrepreneurship Competition. 🎉🎉
-- *2024.06*: &nbsp; I was awarded the "Ten Outstanding and One Hundred Excellent Students" title (Top 100 university-wide). 🎓🎓
+- *2024.06*: &nbsp; Having been awarded the "Ten Outstanding and One Hundred Excellent Students" title (Top 100 university-wide). 🎓🎓
 - *2023.09*: &nbsp; "State index for interpreting the state-dependent behavior of granular soil: A review," was accepted to Archives of Computational Methods in Engineering (IF 9.7)! 🎉🎉
 
 # 📖 Educations
