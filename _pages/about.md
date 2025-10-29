@@ -58,7 +58,7 @@ Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at E
 </div>
 
 # 👥 Co-authors
-Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm), [Delong Chen](https://chendelong.world/), [Xingyu Wang](https://multimodality.group/author/%E7%8E%8B%E5%85%B4%E5%AE%87/
+Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm), [Delong Chen](https://chendelong.world/), [Xingyu Wang](https://multimodality.group/author/%E7%8E%8B%E5%85%B4%E5%AE%87/)
 
 # 🏆 Competitions
 - 2025, bronze medal, Kaggle —— CIBMTR - Equity in post-HCT Survival Predictions
