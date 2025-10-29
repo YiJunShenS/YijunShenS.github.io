@@ -2,9 +2,6 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "Research Topics"
-    url: "/#-Research Topics"
     
   - title: "News"
     url: "/#-news"
@@ -14,9 +11,6 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
-
-  - title: "Selected Publications"
-    url: "/#-Selected Publications"
 
   - title: "Competitions"
     url: "/#-competitions"
