@@ -33,7 +33,11 @@ Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at E
 # 📖 Educations
 - *2025.09 - now*, M.S. College of Computer Science and Technology, East China Normal University, supervised by Prof. Kai Zhang.
 - *2021.08 - 2025.07*, B.S. at College of Artificial Intelligence and Automation, Hohai University, supervised by Prof. Fan Liu.
-  
+
+# 💻 Internships
+- *2024.10 - 2025.03*, Algorithm Intern at Spring Airlines, under the supervision of Dr. Zhenya Lin.
+
+
 # 📝 Selected Publications 
 
 \* Equal Contribution
